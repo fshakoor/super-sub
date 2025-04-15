@@ -1,4 +1,4 @@
-# The Super Sub: Impact of Attacking Substitutes in the Premier League (2013–2023)
+# The Super Sub: Impact of Attacking Substitutes in the Premier League (2014–2024)
 
 ## Introduction
 This project investigates the impact of "Super Subs"—attacking players brought on as substitutes who score crucial goals late in matches. Specifically, we explore whether these players are more likely than expected to score goals that equalize or win games after being subbed on when their team is tied or losing.
@@ -9,7 +9,7 @@ This project investigates the impact of "Super Subs"—attacking players brought
 
 ## Scope
 - **League:** English Premier League  
-- **Time Period:** 2013–2023 (10 seasons)  
+- **Time Period:** 2013–2024 (9 seasons)  
 - **Focus:** Substitutes entering after the 60th minute in tied or losing game states
 
 ## Constraints
