@@ -11,7 +11,7 @@ Specifically, I explore whether these players are more likely than expected to s
 
 ## Scope
 - **League:** English Premier League  
-- **Time Period:** 2013–2024 (9 seasons)  
+- **Time Period:** 2013-14 to 2023-24 (10 seasons)  
 - **Focus:** Substitutes entering after the 70th minute in tied or losing game states
 
 ## Constraints
